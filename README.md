@@ -35,9 +35,9 @@ Sou um Desenvolvedor Back-end Python, tenho 29 anos, moro em Uberlândia - MG<br
 #### Alguns dados dos meus repositórios:
   <div align="center">
  <a href = "https://www.linkedin.com/in/igorluan95/">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorluan95&show_icons=true&theme=white&include_all_commits=true&count_private=true">    </a>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ok-marcos&show_icons=true&theme=white&include_all_commits=true&count_private=true">    </a>
  <a href = "https://www.linkedin.com/in/igorluan95/">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorluan95&layout=compact&langs_count=7&theme=white">
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ok-marcos&layout=compact&langs_count=7&theme=white">
   </div>
  </a>
 
