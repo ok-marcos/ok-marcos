@@ -14,9 +14,9 @@ Durante o bootcamp da Generation adquiri conhecimento técnico para realizar apl
 [![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=Java&logoColor=007396&https://github.com/ok-marcos)]([https://www.linkedin.com/in/igorluan95/](https://www.linkedin.com/in/marcos-henrique-a016b163/))
 [![Spring](https://img.shields.io/badge/-Spring-white?style=flat&logo=Spring&logoColor=6DB33F&https://github.com/ok-marcos)]([(https://www.linkedin.com/in/marcos-henrique-a016b163/]))
 [![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-white?style=flat&logo=SpringBoot&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
-[![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql&logoColor=4479A1&https://github.com/ok-marcos)]([https://www.linkedin.com/in/igorluan95/](https://www.linkedin.com/in/marcos-henrique-a016b163/))
+[![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql&logoColor=4479A1&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 [![Postman](https://img.shields.io/badge/-Postman-white?style=flat&logo=Postman&logoColor=FF6C37&https://github.com/ok-marcos)](https://www.linkedin.com/in/marcos-henrique-a016b163/)
-[![Swagger](https://img.shields.io/badge/-Swagger-white?style=flat&logo=Swagger&logoColor=6DB33F&https://github.com/ok-marcos)](https://www.linkedin.com/in/igorluan95/)
+[![Swagger](https://img.shields.io/badge/-Swagger-white?style=flat&logo=Swagger&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 [![Heroku](https://img.shields.io/badge/-Heroku-white?style=flat&logo=Heroku&logoColor=430098&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 
 #### Tecnologias que utilizo no Front-end:
