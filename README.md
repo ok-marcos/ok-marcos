@@ -13,7 +13,7 @@ Sou um Desenvolvedor Back-end Python, tenho 29 anos, moro em Uberlândia - MG<br
 [![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=Python&logoColor=007396&https://github.com/ok-marcos)](https://www.linkedin.com/in/marcos-henrique-a016b163/)
 [![Flask](https://img.shields.io/badge/-Flask-white?style=flat&logo=Flask&logoColor=000000&https://github.com/ok-marcos)]([(https://www.linkedin.com/in/marcos-henrique-a016b163/]))
 [![DJango](https://img.shields.io/badge/-DJango-white?style=flat&logo=DJango&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
-[![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=JavaScript&logoColor=ffff00&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
+[![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=JavaScript&logoColor=ffa500&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 [![NodeJS](https://img.shields.io/badge/-NodeJS-white?style=flat&logo=NodeJS&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 [![ExpressJS](https://img.shields.io/badge/-ExpressJS-white?style=flat&logo=ExpressJS&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 
@@ -21,7 +21,7 @@ Sou um Desenvolvedor Back-end Python, tenho 29 anos, moro em Uberlândia - MG<br
 [![ReactJS](https://img.shields.io/badge/-React-white?style=flat&logo=react&logoColor=007396&https://github.com/ok-marcos)](https://www.linkedin.com/in/marcos-henrique-a016b163/)
 [![React Native](https://img.shields.io/badge/-React%20Native-white?style=flat&logo=React&logoColor=007380&https://github.com/ok-marcos)]([(https://www.linkedin.com/in/marcos-henrique-a016b163/]))
 [![CSS](https://img.shields.io/badge/-CSS-white?style=flat&logo=css&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
-[![HTML5](https://img.shields.io/badge/-html5-white?style=flat&logo=html5&logoColor=ffff00&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
+[![HTML5](https://img.shields.io/badge/-html5-white?style=flat&logo=html5&logoColor=ffa500&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 [![Sass](https://img.shields.io/badge/-sass-white?style=flat&logo=sass&logoColor=cc6699&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 [![Material UI](https://img.shields.io/badge/-Material%20UI-white?style=flat&logo=MaterialUi&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 
