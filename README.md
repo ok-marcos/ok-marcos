@@ -11,7 +11,7 @@ Durante o bootcamp da Generation adquiri conhecimento técnico para realizar apl
 ##
 
 #### Tecnologias que utilizo no Back-end:
-[![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=Java&logoColor=007396&https://github.com/ok-marcos)]([https://www.linkedin.com/in/igorluan95/](https://www.linkedin.com/in/marcos-henrique-a016b163/))
+[![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=Java&logoColor=007396&https://github.com/ok-marcos)](https://www.linkedin.com/in/marcos-henrique-a016b163/))
 [![Spring](https://img.shields.io/badge/-Spring-white?style=flat&logo=Spring&logoColor=6DB33F&https://github.com/ok-marcos)]([(https://www.linkedin.com/in/marcos-henrique-a016b163/]))
 [![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-white?style=flat&logo=SpringBoot&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 [![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql&logoColor=4479A1&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
