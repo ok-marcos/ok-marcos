@@ -22,7 +22,7 @@ Sou um Desenvolvedor Back-end Python, tenho 29 anos, moro em Uberlândia - MG<br
 [![React Native](https://img.shields.io/badge/-React%20Native-white?style=flat&logo=React&logoColor=007380&https://github.com/ok-marcos)]([(https://www.linkedin.com/in/marcos-henrique-a016b163/]))
 [![CSS](https://img.shields.io/badge/-css-white?style=flat&logo=css&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 [![HTML5](https://img.shields.io/badge/-html5-white?style=flat&logo=html5&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
-[![Sass](https://img.shields.io/badge/-sass-white?style=flat&logo=sass&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
+[![Sass](https://img.shields.io/badge/-sass-white?style=flat&logo=sass&logoColor=cc6699&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 [![Material UI](https://img.shields.io/badge/-Material%20UI-white?style=flat&logo=MaterialUi&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 
 
