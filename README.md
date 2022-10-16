@@ -1,5 +1,5 @@
 ## Olá, mundo! Eu sou o Marcos Henrique.   <a href = "https://www.linkedin.com/in/marcos-henrique-a016b163//"><img align="right" src="https://user-images.githubusercontent.com/92352134/156427006-dd0758d3-019c-44d0-8761-86a9fbbf7612.png"  width="200px"> </a> 
-Sou um Desenvolvedor Back-end Python formado pela <a href = "https://brazil.generation.org"> Generation Brasil,</a> tenho 29 anos, moro em Uberlândia - MG<br><br>
+Sou um Desenvolvedor Back-end Python, tenho 29 anos, moro em Uberlândia - MG<br><br>
 
  
 #### Meus contatos:
@@ -11,7 +11,7 @@ Sou um Desenvolvedor Back-end Python formado pela <a href = "https://brazil.gene
 
 #### Tecnologias que utilizo no Back-end:
 [![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=Python&logoColor=007396&https://github.com/ok-marcos)](https://www.linkedin.com/in/marcos-henrique-a016b163/)
-[![Spring](https://img.shields.io/badge/-Spring-white?style=flat&logo=Spring&logoColor=6DB33F&https://github.com/ok-marcos)]([(https://www.linkedin.com/in/marcos-henrique-a016b163/]))
+[![Flask](https://img.shields.io/badge/-Flask-white?style=flat&logo=Flask&logoColor=6DB33F&https://github.com/ok-marcos)]([(https://www.linkedin.com/in/marcos-henrique-a016b163/]))
 [![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-white?style=flat&logo=SpringBoot&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 [![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql&logoColor=4479A1&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 [![Postman](https://img.shields.io/badge/-Postman-white?style=flat&logo=Postman&logoColor=FF6C37&https://github.com/ok-marcos)](https://www.linkedin.com/in/marcos-henrique-a016b163/)
