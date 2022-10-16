@@ -1,6 +1,5 @@
 ## Olá, mundo! Eu sou o Marcos Henrique.   <a href = "https://www.linkedin.com/in/marcos-henrique-a016b163//"><img align="right" src="https://user-images.githubusercontent.com/92352134/156427006-dd0758d3-019c-44d0-8761-86a9fbbf7612.png"  width="200px"> </a> 
-Sou um Desenvolvedor Back-end Python formado pela <a href = "https://brazil.generation.org"> Generation Brasil,</a> tenho 26 anos, moro em São Paulo e estou em busca de uma oportunidade na área.<br><br>
-Durante o bootcamp da Generation adquiri conhecimento técnico para realizar aplicações fullstack e, além disso, aprimorei habilidades comportamentais essenciais para o ingresso no mercado de trabalho, como a comunicação, a orientação ao detalhe, a proatividade e o trabalho em equipe.
+Sou um Desenvolvedor Back-end Python formado pela <a href = "https://brazil.generation.org"> Generation Brasil,</a> tenho 29 anos, moro em Uberlândia - MG<br><br>
 
  
 #### Meus contatos:
@@ -11,7 +10,7 @@ Durante o bootcamp da Generation adquiri conhecimento técnico para realizar apl
 ##
 
 #### Tecnologias que utilizo no Back-end:
-[![Java](https://img.shields.io/badge/-Python-white?style=flat&logo=Python&logoColor=007396&https://github.com/ok-marcos)](https://www.linkedin.com/in/marcos-henrique-a016b163/)
+[![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=Python&logoColor=007396&https://github.com/ok-marcos)](https://www.linkedin.com/in/marcos-henrique-a016b163/)
 [![Spring](https://img.shields.io/badge/-Spring-white?style=flat&logo=Spring&logoColor=6DB33F&https://github.com/ok-marcos)]([(https://www.linkedin.com/in/marcos-henrique-a016b163/]))
 [![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-white?style=flat&logo=SpringBoot&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 [![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql&logoColor=4479A1&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
