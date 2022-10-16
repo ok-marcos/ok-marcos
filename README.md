@@ -9,24 +9,22 @@ Sou um Desenvolvedor Back-end Python, tenho 29 anos, moro em Uberlândia - MG<br
 
 ##
 
-#### Tecnologias que utilizo no Back-end:
+#### Linguagens e Frameworks que utilizo no Back-end:
 [![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=Python&logoColor=007396&https://github.com/ok-marcos)](https://www.linkedin.com/in/marcos-henrique-a016b163/)
 [![Flask](https://img.shields.io/badge/-Flask-white?style=flat&logo=Flask&logoColor=6DB33F&https://github.com/ok-marcos)]([(https://www.linkedin.com/in/marcos-henrique-a016b163/]))
-[![DJango](https://img.shields.io/badge/-DJango%20Boot-white?style=flat&logo=DJango&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
-[![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql&logoColor=4479A1&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
-[![Postman](https://img.shields.io/badge/-Postman-white?style=flat&logo=Postman&logoColor=FF6C37&https://github.com/ok-marcos)](https://www.linkedin.com/in/marcos-henrique-a016b163/)
-[![Swagger](https://img.shields.io/badge/-Swagger-white?style=flat&logo=Swagger&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
-[![Heroku](https://img.shields.io/badge/-Heroku-white?style=flat&logo=Heroku&logoColor=430098&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
+[![DJango](https://img.shields.io/badge/-DJango-white?style=flat&logo=DJango&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
+[![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=JavaScript&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
+[![NodeJS](https://img.shields.io/badge/-NodeJS-white?style=flat&logo=NodeJS&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
+[![ExpressJS](https://img.shields.io/badge/-ExpressJS-white?style=flat&logo=ExpressJS&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 
-#### Tecnologias que utilizo no Front-end:
-[![VSCode](https://img.shields.io/badge/-VSCode-white?style=flat&logo=visualstudiocode&logoColor=007ACC&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
-[![Angular](https://img.shields.io/badge/-AngularJS-white?style=flat&logo=Angular&logoColor=DD0031&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
-[![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat&logo=html5&logoColor=E34F26&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat&logo=Bootstrap&logoColor=7952B3&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
-[![CSS3](https://img.shields.io/badge/-CSS3-white?style=flat&logo=css3&logoColor=1572B6&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript&logoColor=DAA520&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
-[![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat&logo=netlify&logoColor=00C7B7&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
+#### Linguagens e frameworks que utilizo no Front-end:
+[![ReactJS](https://img.shields.io/badge/-ReactJS-white?style=flat&logo=ReactJS&logoColor=007396&https://github.com/ok-marcos)](https://www.linkedin.com/in/marcos-henrique-a016b163/)
+[![React Native](https://img.shields.io/badge/-ReactNative-white?style=flat&logo=ReactNative&logoColor=6DB33F&https://github.com/ok-marcos)]([(https://www.linkedin.com/in/marcos-henrique-a016b163/]))
+[![CSS](https://img.shields.io/badge/-css-white?style=flat&logo=css&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
+[![HTML5](https://img.shields.io/badge/-html5-white?style=flat&logo=html5&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
+[![Sass](https://img.shields.io/badge/-sass-white?style=flat&logo=sass&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
+[![Material UI](https://img.shields.io/badge/-material-ui-white?style=flat&logo=material-ui&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
+
 
 #### Tecnologias que utilizo para versionamento:
 [![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=Git&logoColor=F05032&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
