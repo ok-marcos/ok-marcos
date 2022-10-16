@@ -27,8 +27,8 @@ Sou um Desenvolvedor Back-end Python, tenho 29 anos, moro em Uberlândia - MG<br
 
 
 #### Tecnologias que utilizo para versionamento:
-[![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=Git&logoColor=F05032&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
-[![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat&logo=GitHub&logoColor=181717&https://github.com/igorluan95)](https://github.com/igorluan95)
+[![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=Git&logoColor=F05032&https://github.com/ok-marcos)](https://www.linkedin.com/in/marcos-henrique-a016b163/)
+[![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat&logo=GitHub&logoColor=181717&https://github.com/ok-marcos)](https://www.linkedin.com/in/marcos-henrique-a016b163/)
 
 ##
 
