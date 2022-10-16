@@ -11,7 +11,7 @@ Sou um Desenvolvedor Back-end Python, tenho 29 anos, moro em Uberlândia - MG<br
 
 #### Linguagens e Frameworks que utilizo no Back-end:
 [![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=Python&logoColor=007396&https://github.com/ok-marcos)](https://www.linkedin.com/in/marcos-henrique-a016b163/)
-[![Flask](https://img.shields.io/badge/-Flask-white?style=flat&logo=Flask&logoColor=6DB33F&https://github.com/ok-marcos)]([(https://www.linkedin.com/in/marcos-henrique-a016b163/]))
+[![Flask](https://img.shields.io/badge/-Flask-white?style=flat&logo=Flask&logoColor=ffffff&https://github.com/ok-marcos)]([(https://www.linkedin.com/in/marcos-henrique-a016b163/]))
 [![DJango](https://img.shields.io/badge/-DJango-white?style=flat&logo=DJango&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 [![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=JavaScript&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
 [![NodeJS](https://img.shields.io/badge/-NodeJS-white?style=flat&logo=NodeJS&logoColor=6DB33F&https://github.com/ok-marcos)]((https://www.linkedin.com/in/marcos-henrique-a016b163/))
